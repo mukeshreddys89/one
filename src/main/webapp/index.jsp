@@ -12,7 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
         <h1 style="color: black; font-size: 40px;" align="center"> budhi is famous in ig</h1>
         <h1 style="color: black; font-size: 40px;" align="center">hi raa babu</h1>
-        <img src="https://www.google.com/imgres?q=cricket&imgurl=https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fws%2F640%2Fcpsprodpb%2F5690%2Fproduction%2F_129706122_gettyimages-1250852977-594x594.jpg.webp&imgrefurl=https%3A%2F%2Fwww.bbc.com%2Fnews%2Fworld-asia-india-65568363&docid=0CJ8_Q1NSG3o_M&tbnid=pjq7uFywfz0_DM&vet=12ahUKEwjWjIOAhdmJAxUQ4zgGHW4QMtwQM3oECCMQAA..i&w=640&h=426&hcb=2&ved=2ahUKEwjWjIOAhdmJAxUQ4zgGHW4QMtwQM3oECCMQAA"/>
+        <img src="https://www.google.com/imgres?q=dhoni&imgurl=https%3A%2F%2Fi.pinimg.com%2F736x%2Fdc%2Faa%2Fa2%2Fdcaaa2644f83b458a154d71f2b5f361a.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F441493569722771449%2F&docid=kSYyHsa_8uOWZM&tbnid=Tkghj25h0dPRdM&vet=12ahUKEwiy87_9htmJAxXQ1DgGHdBROv0QM3oECDsQAA..i&w=736&h=1051&hcb=2&ved=2ahUKEwiy87_9htmJAxXQ1DgGHdBROv0QM3oECDsQAA" alt="" height="100px" width="100px">
        <p> welcome to devops class</p>
 	
 	
