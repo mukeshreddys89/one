@@ -12,7 +12,7 @@
 	<h1 style="color: black; font-size: 40px;" align="center">we are done with nexus also</h1>
         <h1 style="color: black; font-size: 40px;" align="center"> budhi is famous in ig</h1>
         <h1 style="color: black; font-size: 40px;" align="center">hi raa babu</h1>
-       
+       <p> welcome to devops class</p>
 	
 	
 	
